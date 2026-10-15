@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-04T16:34:14.629732+00:00", "features": {"study_hours": 6.0, "attendance_pct": 92, "sleep_hours": 7.5, "previous_score": 78, "extra_curricular": 1, "study_group": 1}, "prediction": 60.8, "model_version": 1}
+{"timestamp": "2026-07-04T16:34:14.670376+00:00", "features": {"study_hours": 1.5, "attendance_pct": 55, "sleep_hours": 5.0, "previous_score": 40, "extra_curricular": 0, "study_group": 0}, "prediction": 28.4, "model_version": 1}
+{"timestamp": "2026-07-04T16:34:14.710638+00:00", "features": {"study_hours": 3.5, "attendance_pct": 75, "sleep_hours": 6.5, "previous_score": 60, "extra_curricular": 1, "study_group": 0}, "prediction": 43.9, "model_version": 1}

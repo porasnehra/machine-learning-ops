@@ -1,0 +1,21 @@
+{
+  "versions": [
+    {
+      "version": 1,
+      "model_path": "model_v1.joblib",
+      "metrics": {
+        "mae": 2.736,
+        "rmse": 3.483,
+        "r2": 0.7958
+      },
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 8,
+        "random_state": 42
+      },
+      "data_version": "v1",
+      "stage": "Production",
+      "created_at": "2026-07-04T16:34:14.554423+00:00"
+    }
+  ]
+}

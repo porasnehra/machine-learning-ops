@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2026-07-04T16:34:14.479671+00:00",
+    "params": {
+      "n_estimators": 200,
+      "max_depth": 8,
+      "random_state": 42
+    },
+    "metrics": {
+      "mae": 2.736,
+      "rmse": 3.483,
+      "r2": 0.7958
+    }
+  }
+]
